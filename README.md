@@ -9,7 +9,7 @@ Here's a bit about me:
 🌐 Check out my portfolio: [Portfolio Link](http://kenyeck.com)  
 📫 Connect with me on LinkedIn: [LinkedIn Profile](https://linkedin.com/in/kenyeck)  
 📧 Reach out to me via email: ken.yeck@gmail.com  
-📄 View my Resume
+📄 View my [Resume](http://kenyeck/com/resume.pdf)
 
 **Skills**
 - Frontend Development: React.js, Next.js, TypeScript, HTML, CSS, Redux, Chakra-UI, Material-UI  
